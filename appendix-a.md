@@ -59,4 +59,4 @@ powershell commands that share same names as linux and same/similar functionalit
 Additional resources:
 * Owner’s Manual http://technet.microsoft.com/en-us/library/ee221100.aspx
 * Cheat Sheet https://download.microsoft.com/download/2/1/2/2122F0B9-0EE6-4E6D-BFD6-F9DCD27C07F9/WS12_QuickRef_Download_Files/PowerShell_LangRef_v3.pdf
-~~* Master PowerShell http://powershell.com/cs/blogs/ebook/default.aspx~~
+* ~~Master PowerShell http://powershell.com/cs/blogs/ebook/default.aspx~~
