@@ -16,6 +16,7 @@ WSL is the reason why I need to learn both Powershell and Linux.
 | popd|pop directory|
 | cp|copy a file or directory|
 | mv|move a file or directory|
+|touch | create empty file|
 |less|page through a file|
 |cat|print the whole file|
 |xargs|execute arguments|
@@ -44,6 +45,7 @@ powershell commands that share same names as linux and same/similar functionalit
 |command | what does it do?|
 |-|-|
 |robocopy|robust copy|
+|New-Item| create empty file|
 |more|page through a file|
 |type|print the whole file|
 |forfiles|run a command on lots of files|
