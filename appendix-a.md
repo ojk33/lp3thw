@@ -28,6 +28,8 @@ WSL is the reason why I need to learn both Powershell and Linux.
 |export|export/set a new environment variable|
 | exit|exit the shell|
 |sudo|DANGER! become super user root DANGER!|
+|chmod||
+|chown||
 
 
 ## Windows (powershell) Commands
@@ -47,3 +49,5 @@ powershell commands that share same names as linux and same/similar functionalit
 |helpctr|find what man page is appropiate|
 |set|export/set a new environment variable|
 |runas|DANGER! become super user root DSNGER!|
+|attrib||
+|icacls||
