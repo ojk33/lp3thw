@@ -3,6 +3,9 @@
 ~~Since I'm on a Windows machine, I'm going to be needing to learn some Powershell commands.~~
 WSL is the reason why I need to learn both Powershell and Linux.
 
+Note that you do not need to learn every command listed here. You would only need cd and ls, to navigate folders and run
+the interpreter on the programs.
+
 ## Linux Commands
 | command | what does it do? |
 |-|-|
